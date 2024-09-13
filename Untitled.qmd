@@ -50,3 +50,38 @@ cat("The area of the circle with radius", radius, "is", circle_area, "\n")
 ![](images/Screenshot 2024-08-28 at 2.27.28 PM.png){width="312"}
 
 This is the Epidemiological Triad consists of three parts, the Host, Pathogen, and Environment. This triangle shows how health problems and infectious diseases are spread. The host is the organism that has the disease. The environment has the external factors that can lead to possible disease spread. Finally, the pathogen is the microbe or agent that can cause disease.
+
+9/12/24 ws 2 and 3 
+
+Quantitative Parasitology on the web (powered by R)   
+   by Jeno Reiczigel and Lajos Rozsa
+   web programming by Andras Reiczigel and Ibolya Fabian
+
+Version 1.0.15  (6 December 2020)
+
+For more details see www2.univet.hu/qpweb/qp10/QPweb_notes.html
+______________________________________________________________________________
+
+  QPweb                 Fri Sep 13 02:20:51 2024 
+
+     Exact confidence limits for the prevalence (Sterne's method, new algorithm)
+     Confidence level = 95%
+                                  N  Infected  Prev.     Lower CL  Upper CL
+pond1_trial$vertico              20      6     0.300       0.140     0.525 
+
+For reference: 
+ Klaschka J, Reiczigel J (2020) Computational Statistics, 
+ https://doi.org/10.1007/s00180-020-00986-0 
+______________________________________________________________________________
+
+  QPweb                 Fri Sep 13 02:22:01 2024 
+
+     Comparison of prevalences by Fisher's exact test
+
+                                  N  Infected Non-inf.   Prev.%
+pond1_trial$vertico               20       6      14      30.0 
+pond2_trial$vertico               15       1      14       6.7 
+
+     Two-sided p-value:  0.1987 
+
+
