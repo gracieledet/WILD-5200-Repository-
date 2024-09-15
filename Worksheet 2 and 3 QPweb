@@ -1,0 +1,86 @@
+Example from Class 9/13: 
+
+
+Quantitative Parasitology on the web (powered by R)   
+   by Jeno Reiczigel and Lajos Rozsa
+   web programming by Andras Reiczigel and Ibolya Fabian
+
+Version 1.0.15  (6 December 2020)
+
+For more details see www2.univet.hu/qpweb/qp10/QPweb_notes.html
+______________________________________________________________________________
+
+  QPweb                 Fri Sep 13 02:20:51 2024 
+
+     Exact confidence limits for the prevalence (Sterne's method, new algorithm)
+     Confidence level = 95%
+                                  N  Infected  Prev.     Lower CL  Upper CL
+pond1_trial$vertico              20      6     0.300       0.140     0.525 
+
+For reference: 
+ Klaschka J, Reiczigel J (2020) Computational Statistics, 
+ https://doi.org/10.1007/s00180-020-00986-0 
+______________________________________________________________________________
+
+  QPweb                 Fri Sep 13 02:22:01 2024 
+
+     Comparison of prevalences by Fisher's exact test
+
+                                  N  Infected Non-inf.   Prev.%
+pond1_trial$vertico               20       6      14      30.0 
+pond2_trial$vertico               15       1      14       6.7 
+
+     Two-sided p-value:  0.1987 
+______________________________________________________________________________
+
+
+
+Question 4 from Worksheet 2: 
+
+
+QPweb                 Sun Sep 15 21:27:16 2024 
+
+     Exact confidence limits for the prevalence (Sterne's method, new algorithm)
+     Confidence level = 95%
+                                  N  Infected  Prev.     Lower CL  Upper CL
+DeerLameness_Chamb$lameness      30      8     0.267       0.131     0.449 
+
+For reference: 
+ Klaschka J, Reiczigel J (2020) Computational Statistics, 
+ https://doi.org/10.1007/s00180-020-00986-0 
+______________________________________________________________________________
+
+  QPweb                 Sun Sep 15 21:30:19 2024 
+
+     Exact confidence limits for the prevalence (Sterne's method, new algorithm)
+     Confidence level = 95%
+                                  N  Infected  Prev.     Lower CL  Upper CL
+DeerLameness_Lee$lameness       150     30     0.200       0.143     0.273 
+
+For reference: 
+ Klaschka J, Reiczigel J (2020) Computational Statistics, 
+ https://doi.org/10.1007/s00180-020-00986-0 
+______________________________________________________________________________
+
+  QPweb                 Sun Sep 15 21:32:15 2024 
+
+     Exact confidence limits for the prevalence (Sterne's method, new algorithm)
+     Confidence level = 95%
+                                  N  Infected  Prev.     Lower CL  Upper CL
+DeerLameness_Russe$lameness      96      3     0.031       0.009     0.087 
+
+For reference: 
+ Klaschka J, Reiczigel J (2020) Computational Statistics, 
+ https://doi.org/10.1007/s00180-020-00986-0 
+______________________________________________________________________________
+
+  QPweb                 Sun Sep 15 21:34:47 2024 
+
+     Comparison of prevalences by Fisher's exact test
+
+                                  N  Infected Non-inf.   Prev.%
+DeerLameness_Chamb$lameness       30       8      22      26.7 
+DeerLameness_Lee$lameness        150      30     120      20.0 
+DeerLameness_Russe$lameness       96       3      93       3.1 
+
+     Two-sided p-value: <0.0001 
