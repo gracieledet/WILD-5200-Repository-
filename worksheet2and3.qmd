@@ -241,8 +241,39 @@ Prevalence: 3/60 = 0.05
 Incidence: 3/60 = 0.05  
 
 
+10/3/2024 
 
 
+worksheet 4: You have read the essay by Starfield, 'A Pragmatic Approach to Modeling for Wildlife Management.' Using insights from this reading, write a memo (~500 words) discussing the role of disease models in the management of wildlife diseases.
+In your memo, explain how disease models can contribute to better wildlife disease management strategies. Reflect on the limitations of disease models, including data uncertainty and ecological complexity, and suggest how models can be used alongside other tools to improve wildlife disease management outcomes.
+Add the memo to your quarto document and upload it to the Github repository.
+
+To: Dr. Aniruddha Belsare
+From: Gracie Ledet 
+Subject: How disease models can contribute to better wildlife disease management strategies
+Date: 3 October 2024 
+
+Ensuring effective wildlife disease managaement strategies is extremely crucial for many reasons, specifically preventing zoonotic disease outbreaks, preserving the enviornment and ecosystem, and promoting biodiversity. Disease models have been proved as an effective strategy for wildlife disease management because they provide insights into diseases that can help scientist predict outcomes and form intervention strategies. While disease models are beneficial, Starfield’s 'A Pragmatic Approach to Modeling for Wildlife Management' offers a practical and sensible approach to disease models as ‘truth’ and as probelm-solving tools. This memo will reflect on the limitations of disease models, including data uncertainty and ecological complexity, while also acknowledging how models can be used with other problem-solving tools to improve wildlife disease management outcomes. 
+
+Disease Models and Wildlife Management 
+Disease models are tools used in wildlife management that help to understand and predict different disease processes; they also help to form intervention and prevention measures. Disease models can predict disease patterns becuase they use certain factors such as population density, species behavior, environmental conditions, and pathogen characteristics to collect data. As long as disease models are used as a problem-solving tool, and not a complete accurate predictor, they have many benefits and provide an immense amount of data that otherwise may have been impossible to collect and analyze. 
+
+Using disease models are beneficial to wildlife and zoonotic disease specialists. These models can provide data on how a pathogen spreads and what may be the potential consequences and outcomes of a disease. Knowing the prediction of how a zoonotic disease will act can help scientist implement preventative measures and also ensure more emergency preparedness. 
+
+Limitations to Disease Models and Wildlife Management 
+The primary downfall of disease models in accoradnce to wildlife management is that they are not always fully accurate. Disease models serve as a predictive problem-solving tool, not a definitive one. The dangers of referencing disease models is that some people can become too dependent on them; these people need to be informed that the models are predictions, not certainties for the future. 
+
+Starfield highlights the danger of viewing disease models as representations of “truth” rather than problem-solving tools. If people rely solely on models, they can end up making flawed-decisions. Wildlife management professionals have to be remininded that disease models are simplifications of predictions and should only be used as one tool, alongside others, to make a decision. 
+
+Disease models with other problem-solving tools 
+As previously stated, disease models should be used alongside other tools in order to ensure accurate decision making. Field surveillance and monitoring is one tool that disease models could be used with. Ongoing surveillance and monitoring will most likely have a lot more data that can be used in reference and comparison to the disease models. Risk assesment tools could also be another good reference to use with disease models. When problem-solving tools are used alongside and comparative to one another, there is a lot higher of a chance for accurate data representation and information. 
+
+Conclusion 
+In conclusion, disease models are a beneficial tool for wildlife management. Although disease models can help with predictions and interventions, they should not be relied on as a definitive problem-solving tool. A tool such as this, should be used alongside other problem-solving tools to ensure accurate data representation. Disease models need to be looked at as a problem-solving tool not a ‘truth’.
+
+Best regards,
+Gracie Ledet
+WILD 5200 Student 
 
 
 
