@@ -282,7 +282,16 @@ The fecal flotation lab was a lot more interesting than I anticipated. The steps
 Although our sample, unfortunately, did not present evidence of parasitic eggs, we could look and observe other examples and images of fecal flotations, specifically from goats and sheep, showing parasitic egg presence. The researcher made sure to inform us beforehand that the dairy cow samples we were using tended not to present eggs, but she did find a couple in some samples. The most challenging part of the lab was shaking the sample up with the solution and placing it in the smaller tube. Everything else was relatively easy; I just wanted to ensure nothing floated to the bottom, and everything stayed mixed up. 
 
 
+Worksheet 6: 
+The first person to become infected in the current Marburg virus outbreak in Rwanda probably contracted the disease during a visit to a cave with Egyptian rousette bats/fruit bats that are known reservoir of Marburg virus. As of today, 65 cases of Marburg virus infection have been documented, and most of the people infected are healthcare workers, mainly those who work in intensive care units. ​
 
+​1. Using the community epidemiology framework developed by Fenton and Pedersen, would you classify this Marburg virus outbreak as a spillover event or an emerging infectious disease? Justify your classification.
+Because the first person to get infected with Marburg most likely went to a cave with Egyptian rousette bats/fruit bats that are known reservoirs of the Marburg virus, a spillover event would be indicated. A spillover event is when a disease transmits from animal reservoirs to humans, such as a bat/human interaction. However, since 65 cases of Marburg have been documented, most likely from human-to-human transmission, it seems to have evolved into an emerging infectious disease. An emerging infectious disease (EID) is a human-to-human transmission that has gone beyond just a spillover event, as indicated in this scenario because healthcare workers are getting sick. Since the spillover from humans to animals has evolved into human-to-human transmission, Marburg should be classified as an EID. 
+
+2. What measures could be implemented to reduce the risk of transmission in both community and healthcare settings?
+It is crucial to empower the community with knowledge about the Marburg virus and its transmission. This includes educating them about the risks associated with visiting caves and interacting with bats and raising awareness about the early signs and symptoms of the virus. By doing so, we can significantly reduce the risk of community transmission. 
+
+Given the likelihood of human-to-human transmission of Marburg in healthcare settings, it is essential to ensure the safety of healthcare workers. This involves not only providing them with proper PPE, but also emphasizing the importance of waste and disposal management, isolation of infected patients, and regular screening of those who come into contact with infected patients. These measures are crucial for the safety and protection of healthcare workers, especially those working in intensive care units with Marburg patients. 
 
 
 
