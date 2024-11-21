@@ -295,6 +295,28 @@ Given the likelihood of human-to-human transmission of Marburg in healthcare set
 
 
 
+Exam 1: Question 11 
+
+R0 represents the average number of secondary infections from an infectious individual to a fully suceptible population 
+R0 = total number of transmissions/number of infectious individuals 
+
+Scenario 1: 
+
+total transmissions: 10 
+infectious individuals: 5 
+r0= 10/5 = 2 
+R0 = 2 
+Because R0>1, scenario 1 indicates outbreak growth. R0=2 means that on average, each infectious individual causes 2 new infections. 
+High R0 values require hugher immunity levels to mitigate disease spread. 
+
+
+Scenario 2: 
+
+total transmissions: 10 
+infectious individuals: 5 
+r0= 10/5 = 2 
+R0 = 2 
+because R0>1, scenario 2 indicates outbreak growth similar to scenario 1. On average, every infectious individuals causes 2 new infections. 
 
 
 
