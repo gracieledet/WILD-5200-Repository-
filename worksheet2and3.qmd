@@ -318,8 +318,97 @@ r0= 10/5 = 2
 R0 = 2 
 because R0>1, scenario 2 indicates outbreak growth similar to scenario 1. On average, every infectious individuals causes 2 new infections. 
 
+## **11/22/2024** 
+
+The dataset is comprised of information collected on 106 raccoons, each of which was necropsied and the number of roundworms counted. For each host there is data on the date of capture, the region (North, Central and South), the sex (male, female) and the age (adult, young adult). The last column gives the number of worms found during necropsy. Zero (0) worms indicates the raccoon was not found to be infected. Note that the necropsy data is real.
+
+Starnes method to find Confidence Interval for all Columns: 
+
+Adult raccoons: 
+Exact confidence limits for the prevalence (Sterne's method, new algorithm)
+     Confidence level = 95%
+                                  N  Infected  Prev.     Lower CL  Upper CL
+AdultRacoon(in)$Adult Raccoon    69     36     0.522       0.404     0.638 
+
+
+Young Raccoon: 
+Exact confidence limits for the prevalence (Sterne's method, new algorithm)
+     Confidence level = 95%
+                                  N  Infected  Prev.     Lower CL  Upper CL
+YoungAdultRacoon(i$Young Ra...   37     14     0.378       0.234     0.541 
+
+
+Central Region: 
+Exact confidence limits for the prevalence (Sterne's method, new algorithm)
+     Confidence level = 95%
+                                  N  Infected  Prev.     Lower CL  Upper CL
+CentralRacoon(in)$Central R...   14      9     0.643       0.371     0.847 
+
+
+South Region: 
+Exact confidence limits for the prevalence (Sterne's method, new algorithm)
+     Confidence level = 95%
+                                  N  Infected  Prev.     Lower CL  Upper CL
+SouthRacoon(in)$South Raccoon    43     27     0.628       0.477     0.759 
+
+
+North region: 
+ Exact confidence limits for the prevalence (Sterne's method, new algorithm)
+     Confidence level = 95%
+                                  N  Infected  Prev.     Lower CL  Upper CL
+NorthRacoon(in)$North Raccoon    49     14     0.286       0.170     0.428 
+
+
+Male Raccoon: 
+Exact confidence limits for the prevalence (Sterne's method, new algorithm)
+     Confidence level = 95%
+                                  N  Infected  Prev.     Lower CL  Upper CL
+MaleRacoon(in)$Male Raccoon      69     26     0.377       0.267     0.500 
+
+
+Female Raccoon: 
+Exact confidence limits for the prevalence (Sterne's method, new algorithm)
+Confidence level = 95%
+                                  N  Infected  Prev.     Lower CL  Upper CL
+FemaleRacoon(in)$Female rac...   37     24     0.649       0.486     0.786 
+
+Summary of data above: 
+Female raccoons have the highest prevalence (64.9%), followed by raccoons in the central region (64.3%) and the south region (62.8%). Raccoons in the north region have the lowest prevalence (28.6%), closely followed by young raccoons (37.8%) and male raccoons (37.7%). Smaller groups, like the central region (N=14), have wider confidence intervals, indicating more uncertainty in prevalence estimates. Larger groups, like adult raccoons and male raccoons, have narrower confidence intervals, reflecting more precision. 
 
 
 
+Comparison of female and male prevalences based on Fisher's Exact test 
+Comparison of prevalences by Fisher's exact test
+
+                                  N  Infected Non-inf.   Prev.%
+FemaleRacoon(in)$Female rac...    37      24      13      64.9 
+MaleRacoon(in)$Male Raccoon       69      26      43      37.7 
+ Two-sided p-value:  0.0087 
+
+Fisher's exact test shows that the prevalence of disease in female raccoons is 64.9%, which is much higher than the prevalence for male raccoons, which is 37.7%. The p-value is less than 0.05 which indicates that this data is statistically significant. The significant p-value indicates that the difference in infection rates between female and male raccoons is unlikely to have occurred by chance. Female raccoons are significantly more likely to be infected than male raccoons in this study.
+
+
+
+Comparison of north, south, and central prevalences based on Fisher's Exact test 
+Comparison of prevalences by Fisher's exact test
+
+                                  N  Infected Non-inf.   Prev.%
+CentralRacoon(in)$Central R...    14       9       5      64.3 
+NorthRacoon(in)$North Raccoon     49      14      35      28.6 
+SouthRacoon(in)$South Raccoon     43      27      16      62.8 
+Two-sided p-value:  0.0016 
+
+Fisher's exact test shows that the prevalence of disease in Raccoons in Central and South regions is substantially higher than the prevalence of infected raccoons in the North. I think this is important to point out because ecologists need to look at why the prevalence is so much lower in the North. Because of the colder climate in the north, the roundworm eggs may not thrive as well in the soil as they would in warmer climates. A p-value of 0.0016 is much smaller than the typical threshold of 0.05, confirming that the differences in prevalence across these regions are unlikely due to chance. This data is statistically significant. Further research might focus on differences in habitat, climate, population density, or exposure to infection sources across the regions.
+
+
+
+Comparison of prevalences by Fisher's exact test
+
+                                  N  Infected Non-inf.   Prev.%
+AdultRacoon(in)$Adult Raccoon     69      36      33      52.2 
+YoungAdultRacoon(i$Young Ra...    37      14      23      37.8 
+
+     Two-sided p-value:  0.2206 
+Fisher's exact test shows that roundworms' prevalence is higher in adult raccoons than young raccoons. However, the difference in prevalence is not statistically significant becuase the two-sided p-value of 0.2206 indicates that there is no statistically significant difference in the prevalence of infection between adult and young adult raccoons. The observed difference in infection rates between adult and young adult raccoons could be due to random variation and not an actual biological or ecological difference. The sample size of adult raccoons is almost double that of young so that could also contribute to the lack of statistical significance 
 
 
