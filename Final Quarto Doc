@@ -58,10 +58,6 @@ This is the Epidemiological Triad consists of three parts, the Host, Pathogen, a
 Quantitative Parasitology on the web (powered by R)\
 by Jeno Reiczigel and Lajos Rozsa web programming by Andras Reiczigel and Ibolya Fabian
 
-Version 1.0.15 (6 December 2020)
-
-For more details see www2.univet.hu/qpweb/qp10/QPweb_notes.html \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
-
 QPweb Fri Sep 13 02:20:51 2024
 
 ```         
@@ -72,7 +68,6 @@ QPweb Fri Sep 13 02:20:51 2024
 
 pond1_trial\$vertico 20 6 0.300 0.140 0.525
 
-For reference: Klaschka J, Reiczigel J (2020) Computational Statistics, <https://doi.org/10.1007/s00180-020-00986-0> \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
 
 QPweb Fri Sep 13 02:22:01 2024
 
