@@ -6,7 +6,7 @@ editor: visual
 ---
 
 
-**8/28 Find area of a circle with radius 5 cm.** 
+#**8/28 Find area of a circle with radius 5 cm.** 
 
 Formula: ¶ \* r\^2
 
@@ -53,7 +53,7 @@ This is the Epidemiological Triad consists of three parts, the Host, Pathogen, a
 
 
 
-**9/12/2024**
+#**9/12/2024**
 
 Quantitative Parasitology on the web (powered by R)\
 by Jeno Reiczigel and Lajos Rozsa web programming by Andras Reiczigel and Ibolya Fabian
@@ -173,7 +173,7 @@ DeerLameness_Russe$lameness       96       3      93       3.1
 
 
 
-Type the questions and your answers in the quarto document you have created. You can insert the table in your Quarto document. Available in the audiseco repository on Github. Link: https://github.com/anyadoc/audiseco/blob/main/ss_table.png
+#Type the questions and your answers in the quarto document you have created. You can insert the table in your Quarto document. Available in the audiseco repository on Github. Link: https://github.com/anyadoc/audiseco/blob/main/ss_table.png
 Please upload your quarto document to your Github repository after completing this worksheet.
 
 1) Find the sample size necessary to detect a disease at or above 5% prevalence in a herd of 5000 deer. The desired level of confidence is 95%.
@@ -263,7 +263,7 @@ Incidence: 3/60 = 0.05
 
 
 
-**10/3/2024** 
+#**10/3/2024** 
 
 worksheet 4: You have read the essay by Starfield, 'A Pragmatic Approach to Modeling for Wildlife Management.' Using insights from this reading, write a memo (~500 words) discussing the role of disease models in the management of wildlife diseases.
 In your memo, explain how disease models can contribute to better wildlife disease management strategies. Reflect on the limitations of disease models, including data uncertainty and ecological complexity, and suggest how models can be used alongside other tools to improve wildlife disease management outcomes.
@@ -305,7 +305,7 @@ WILD 5200 Student
 
 
 
-**10/27/2024**
+#**10/27/2024**
 Write a brief (1-2 paragraphs) report on the fecal floatation lab.
 The fecal flotation lab was a lot more interesting than I anticipated. The steps were as follows: collect the sample, weigh some of the samples out, mix with water and solution, then put in a slide and let sit until it was time to be viewed. The goal of this lab was to detect any parasitic eggs in the fecal matter. For this lab, we used a sample from dairy cows, but typically, there are more eggs present in sheep or goats.  
 Although our sample, unfortunately, did not present evidence of parasitic eggs, we could look and observe other examples and images of fecal flotations, specifically from goats and sheep, showing parasitic egg presence. The researcher made sure to inform us beforehand that the dairy cow samples we were using tended not to present eggs, but she did find a couple in some samples. The most challenging part of the lab was shaking the sample up with the solution and placing it in the smaller tube. Everything else was relatively easy; I just wanted to ensure nothing floated to the bottom, and everything stayed mixed up. 
@@ -319,7 +319,7 @@ Although our sample, unfortunately, did not present evidence of parasitic eggs, 
 
 
 
-**Worksheet 6:** 
+#**Worksheet 6:** 
 The first person to become infected in the current Marburg virus outbreak in Rwanda probably contracted the disease during a visit to a cave with Egyptian rousette bats/fruit bats that are known reservoir of Marburg virus. As of today, 65 cases of Marburg virus infection have been documented, and most of the people infected are healthcare workers, mainly those who work in intensive care units. ​
 
 ​1. Using the community epidemiology framework developed by Fenton and Pedersen, would you classify this Marburg virus outbreak as a spillover event or an emerging infectious disease? Justify your classification.
@@ -339,7 +339,7 @@ Given the likelihood of human-to-human transmission of Marburg in healthcare set
 
 
 
-**Exam 1: Question 11** 
+#**Exam 1: Question 11** 
 
 R0 represents the average number of secondary infections from an infectious individual to a fully suceptible population 
 R0 = total number of transmissions/number of infectious individuals 
@@ -371,7 +371,7 @@ because R0>1, scenario 2 indicates outbreak growth similar to scenario 1. On ave
 
 
 
-## **11/22/2024** 
+#**11/22/2024** 
 
 The dataset is comprised of information collected on 106 raccoons, each of which was necropsied and the number of roundworms counted. For each host there is data on the date of capture, the region (North, Central and South), the sex (male, female) and the age (adult, young adult). The last column gives the number of worms found during necropsy. Zero (0) worms indicates the raccoon was not found to be infected. Note that the necropsy data is real.
 
