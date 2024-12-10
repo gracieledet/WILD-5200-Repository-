@@ -5,7 +5,8 @@ format: html
 editor: visual
 ---
 
-8/28 Find area of a circle with radius 5 cm.
+
+**8/28 Find area of a circle with radius 5 cm.** 
 
 Formula: ¶ \* r\^2
 
@@ -42,7 +43,17 @@ cat("The area of the circle with radius", radius, "is", circle_area, "\n")
 
 This is the Epidemiological Triad consists of three parts, the Host, Pathogen, and Environment. This triangle shows how health problems and infectious diseases are spread. The host is the organism that has the disease. The environment has the external factors that can lead to possible disease spread. Finally, the pathogen is the microbe or agent that can cause disease.
 
-## **9/12/2024**
+
+
+
+
+
+
+
+
+
+
+**9/12/2024**
 
 Quantitative Parasitology on the web (powered by R)\
 by Jeno Reiczigel and Lajos Rozsa web programming by Andras Reiczigel and Ibolya Fabian
@@ -157,6 +168,16 @@ DeerLameness_Russe$lameness       96       3      93       3.1
 
      Two-sided p-value: <0.0001 
 
+
+
+
+
+
+
+
+
+
+
 Type the questions and your answers in the quarto document you have created. You can insert the table in your Quarto document. Available in the audiseco repository on Github. Link: https://github.com/anyadoc/audiseco/blob/main/ss_table.png
 Please upload your quarto document to your Github repository after completing this worksheet.
 
@@ -175,7 +196,6 @@ Sample size: 300
 Confidence level: 95%
 Number of positive cases detected: 0
 95% confident that the prevalence of exposure to EHD in this facility is <1% because a sample size of 288 has a 1% prevalence 
-
 
 
 4) An outbreak of ‘Lame disease’ has been reported in wild turkey populations of Alabama. Turkeys from three counties were sampled for lameness (Lee, Chambers and Russell counties). 
@@ -241,8 +261,14 @@ Prevalence: 3/60 = 0.05
 Incidence: 3/60 = 0.05  
 
 
-10/3/2024 
 
+
+
+
+
+
+
+**10/3/2024** 
 
 worksheet 4: You have read the essay by Starfield, 'A Pragmatic Approach to Modeling for Wildlife Management.' Using insights from this reading, write a memo (~500 words) discussing the role of disease models in the management of wildlife diseases.
 In your memo, explain how disease models can contribute to better wildlife disease management strategies. Reflect on the limitations of disease models, including data uncertainty and ecological complexity, and suggest how models can be used alongside other tools to improve wildlife disease management outcomes.
@@ -276,13 +302,29 @@ Gracie Ledet
 WILD 5200 Student 
 
 
-10/27/2024
+
+
+
+
+
+
+
+
+**10/27/2024**
 Write a brief (1-2 paragraphs) report on the fecal floatation lab.
 The fecal flotation lab was a lot more interesting than I anticipated. The steps were as follows: collect the sample, weigh some of the samples out, mix with water and solution, then put in a slide and let sit until it was time to be viewed. The goal of this lab was to detect any parasitic eggs in the fecal matter. For this lab, we used a sample from dairy cows, but typically, there are more eggs present in sheep or goats.  
 Although our sample, unfortunately, did not present evidence of parasitic eggs, we could look and observe other examples and images of fecal flotations, specifically from goats and sheep, showing parasitic egg presence. The researcher made sure to inform us beforehand that the dairy cow samples we were using tended not to present eggs, but she did find a couple in some samples. The most challenging part of the lab was shaking the sample up with the solution and placing it in the smaller tube. Everything else was relatively easy; I just wanted to ensure nothing floated to the bottom, and everything stayed mixed up. 
 
 
-Worksheet 6: 
+
+
+
+
+
+
+
+
+**Worksheet 6:** 
 The first person to become infected in the current Marburg virus outbreak in Rwanda probably contracted the disease during a visit to a cave with Egyptian rousette bats/fruit bats that are known reservoir of Marburg virus. As of today, 65 cases of Marburg virus infection have been documented, and most of the people infected are healthcare workers, mainly those who work in intensive care units. ​
 
 ​1. Using the community epidemiology framework developed by Fenton and Pedersen, would you classify this Marburg virus outbreak as a spillover event or an emerging infectious disease? Justify your classification.
@@ -295,7 +337,14 @@ Given the likelihood of human-to-human transmission of Marburg in healthcare set
 
 
 
-Exam 1: Question 11 
+
+
+
+
+
+
+
+**Exam 1: Question 11** 
 
 R0 represents the average number of secondary infections from an infectious individual to a fully suceptible population 
 R0 = total number of transmissions/number of infectious individuals 
@@ -317,6 +366,15 @@ infectious individuals: 5
 r0= 10/5 = 2 
 R0 = 2 
 because R0>1, scenario 2 indicates outbreak growth similar to scenario 1. On average, every infectious individuals causes 2 new infections. 
+
+
+
+
+
+
+
+
+
 
 ## **11/22/2024** 
 
@@ -386,7 +444,6 @@ MaleRacoon(in)$Male Raccoon       69      26      43      37.7
  Two-sided p-value:  0.0087 
 
 Fisher's exact test shows that the prevalence of disease in female raccoons is 64.9%, which is much higher than the prevalence for male raccoons, which is 37.7%. The p-value is less than 0.05 which indicates that this data is statistically significant. The significant p-value indicates that the difference in infection rates between female and male raccoons is unlikely to have occurred by chance. Female raccoons are significantly more likely to be infected than male raccoons in this study.
-
 
 
 Comparison of north, south, and central prevalences based on Fisher's Exact test 
